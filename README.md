@@ -26,21 +26,6 @@ If you'd like to brush up on those skills, I recommand this free tutorial from [
 ## Installation
 To follow along this tutorial, you will need to install [VIBRANT v.1.2.1](https://github.com/AnantharamanLab/VIBRANT), which is freely available at the link here. Detailed instructions on installing VIBRANT are found on its own github page, posted [here](https://github.com/AnantharamanLab/VIBRANT#requirements-).
 
-The program VIBRANT has already been installed on the server for this summer school. Use [X2GoClient](https://wiki.x2go.org/doku.php/download:start) to log into it. 
-
-Once logged in, you can access it by typing `/opt/VIBRANT/VIBRANT_run.py -h`. 
-
-**Troubleshooting**
-You might need to open the file viewe, navigate to `/opt/` and click on the VIBRANT folder, and change the permissions so that `studentuser` (you) have read and write permissions. Click apply on all subfolders. Additionally, you will need to change the file permissions of the `VIBRANT_run.py` and the Python scripts in the `Scripts` folder, so that you can run them as executable programs. Click on each `.py` script, go to File, then Permissions, and click the check box.
-
-You will also want to download the files necessary for this tutorial.
-`cd` into your Desktop and Type 
-
-```git clone https://github.com/patriciatran/norbis-virome-tutorial.git```
-
-You will now have a folder named norbis-virome-tutorial which contains the folde `datasets` to be used for today's tutorial.
-
-
 ## File descriptions & Flow of the tutorial
 
 For this tutorial, we will use a total of 5 scenarios. First, I will walk you through how to use VIBRANT using the command line through a live coding session. Additionally, we will go over the general input and output files. We will then compare how the outputs differ in the 3 scenarios, and then discuss these through guided discussions in breakout groups of 7-8 students per group. Finally, we will regroup in the main virtual room to debrief. 
