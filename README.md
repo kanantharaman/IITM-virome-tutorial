@@ -1,16 +1,11 @@
 # Viral Omics Tutorial
 
-**Contact**: Patricia Tran :school: University of Wisconsin-Madison :email: ptran5@wisc.edu
+**Contact**: Patricia Tran :school: University of Wisconsin-Madison :email: ptran5@wisc.edu, Karthik Anantharaman :school: University of Wisconsin-Madison :email: karthik@bact.wisc.edu,
 
-If you have questions about this tutorial please contact Patricia. If you have questions about the technicalities of VIBRANT, bugs, suggestions for the program itself, etc. please contact Kris Kieft (kieft@wisc.edu) 
-
-:star: **Welcome to the tutorial page for the Viral omics bioinformatics session of the [NORBIS Summer School 2021](https://norbis.w.uib.no/activities/summerschool/)!** :star:
+:star: **Welcome to the tutorial page for the Viral omics bioinformatics session ** :star:
 
 ## Learning Outcomes:
-After completion of the NORBIS summer school, the participants will:
-
-- Improved knowledge of biological background of NORBIS related fields.
-- Knowledge about data types and methods for bioinformatic analysis in NORBIS related fields.
+After completion of this module, the participants will:
 
 After completion of this virome workshop day the participants will:
 - Have a better idea of what can they achieve using VIBRANT in their research
