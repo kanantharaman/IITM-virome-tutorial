@@ -12,12 +12,6 @@ After completion of this virome workshop day the participants will:
 - Grasp a understanding that VIBRANT is one tool of of a rich ecosystem of tools that can be used to expand virome research
 - Be able to discuss the use of bioinformatics tools for virome research, either in their field of study or generally in science.
 
-## Before we start! ##
-During this interactive tutorial, please use these icons at the lower right portion of your Zoom screen in order to let me know whether things are going well, yes (green icon), no (red icon), notify me to slow down (grey icon) or speed up (blue icon). Additionally, please feel free to post your questions in the chat and we will address them as soon as we can.
-
-<img src="https://github.com/patriciatran/norbis-virome-tutorial/blob/main/ZoomIcons.png" width=30% height=30%>
-
-
 ## Prerequisites
 A basic knowledge of the command line will be beneficials, and knowledge of commands such as `cd`, `ls`, `mkdir`, `mv`, `cp`, `head`, `tail`, as well as an understanding of file directory structure will be beneficial. 
 
