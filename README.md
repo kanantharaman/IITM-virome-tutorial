@@ -98,12 +98,12 @@ If for whatever reason you prefer to run the analysis using the cloud, [Cyverse]
 3. Click Launch again.
 4. On the left hand side bar, click on "Apps". It looks like a grid.
 5. In the search bar, type "VIBRANT". There will be version `1.0.1` and `1.2.0`. Select `1.2.0`.
-6. In the Analysis Info, type "NORBIS Tutorial Scenario 1", click next.
+6. In the Analysis Info, type "Tutorial Scenario 1", click next.
 7. Use the drop down menu to input the first fasta file from Scenario 1. 
 8. For the parameters, choose "nucleotide", 4 parralell runs, and keep the base pair and ORF as default (1000 and 4 respectively). Do not select "virome". Click next.
 9. Keep the Advanced settings as default. Click Next.
 10. On the "review and launch" tab, you can click "Launch Analysis". If you want to do this in advance but not run it now, click on "Save as Quick Launch".
-11. Repeat step 6 to 10 for Scenario 2 and 3. Don't forget to rename the analysis to "NORBIS Tutorial Scenario 2" and "NORBIS Tutorial Scenario 3" instead.
+11. Repeat step 6 to 10 for Scenario 2 and 3. Don't forget to rename the analysis to "Tutorial Scenario 2" and "Tutorial Scenario 3" instead.
 12. To view your results, on the left-hand side bar, click on the second icon "Data". Under the folder "Analysis" will be your result files. 
 
 
